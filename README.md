@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello ✨
 
-<!--
-**edolynna/edolynna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Elvira Dolynna**, a **Front-end Developer** specializing in **Magento** 💻 with 3.5 years of experience. 
 
-Here are some ideas to get you started:
+I hold a **Bachelor's degree in Computer Science** 🎓 from the **State University of Telecommunications**, Kyiv, Ukraine 🇺🇦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently:
+**Front-end Developer** at **ODDITY** since January 2021 🚀
+
+I'm passionate about continuous growth, both personally and professionally 🌱
+
+Outside of coding, I enjoy: **Running** 🏃‍♀️, **Reading** 📚, **Gardening** 🌱, **Pilates** 🧘‍♀️
+
+
+Feel free to connect and explore new opportunities and innovative projects! 🌟
+
+**Email**: [elviradolynna@gmail.com](mailto:elviradolynna@gmail.com) 📧  
+**Website**: [https://edolynna.github.io/elviradolynna/](https://edolynna.github.io/elviradolynna/) 🌐
+
+Let's build something amazing together! 💡
