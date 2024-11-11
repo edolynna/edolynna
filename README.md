@@ -1,7 +1,7 @@
 # Hello ✨
 
 I'm **Elvira Dolynna**, a **Front-end Developer** specializing in **Magento** 💻 with 3.5 years of experience. 
-I hold a **Bachelor's degree in Computer Science** 🎓 from the **State University of Telecommunications**, Kyiv, Ukraine 🇺🇦
+I hold a **Bachelor's degree in Computer Science** 🎓 from the **State University of Telecommunications**.
 
 **Currently:** Front-end Developer at **ODDITY** since January 2021 🚀
 
